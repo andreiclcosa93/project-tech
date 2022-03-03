@@ -1,0 +1,196 @@
+@font-face{
+	font-family:font_nou;
+	src:url("../fonturi/RaphLanokFuture.ttf");
+}
+.icons{
+	padding:7px 35px;
+	text-align:right;
+	font-size:20px;
+	
+}
+
+.sectiune_icons{
+	color:grey;
+}
+
+.sectiune_icons p{
+	color:aqua;
+	font-family:font_nou;
+	padding:0px 6px;
+	margin-top:13px;
+}
+
+
+.search{
+	padding:19px 35px;
+	float:right;
+}
+
+nav{
+	float:left;
+	
+}
+
+nav ul{
+	margin-top:4px;
+	
+	
+}
+
+nav ul li{
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	margin-right:30px;
+	
+}
+
+nav ul li a{
+	font-family:arial;
+	font-size:15px;
+
+}
+
+.carousel-inner{
+	
+}
+
+#container .btn{
+	position:absolute;
+	float:left;
+	width:50px;
+	height:50px;
+	border:none;
+	border-radius:25px;
+	top:290px;
+	background:black;
+	color:white;
+	font-size:20px;
+}
+#container .btn2{
+	position:relative;
+	float:right;
+	width:50px;
+	height:50px;
+	border:none;
+	border-radius:25px;
+	top:290px;
+	background:black;
+	color:white;
+	font-size:20px;
+}
+
+.sectiune_text{
+	
+	width:100%;
+	padding:50px 0px;
+	
+}
+.section_text  h2{
+	padding-bottom:20px;
+}
+
+.sectiune_crop{
+	background-color:white;
+	width:100%;
+	padding:50px 0px;
+}
+
+.image_photoshop{
+	padding:10px 0px 55px;
+}
+
+.image_photoshop img{
+	display:block;
+	margin:0 auto;
+	
+	
+}
+
+.crop1 p{
+	padding:30px 0;
+	font-family:arial;
+}
+
+.crop2 img{
+	padding:45px 0;
+}
+
+.crop3 p{
+	padding:30px 0;
+	font-family:arial;
+}
+
+.image_gallery{
+	
+	width:100%;
+	
+}
+
+.image_gallery img{
+	padding:0px 0px;
+	display:block;
+	margin:0 auto;
+	width:100%;
+	/*float:center; //  asta nu exista , float exista doar  left sau right*/
+
+}
+
+.image_gallery p {
+	text-align:center;
+	width:100%;
+	
+	
+}
+
+.image_gallery .groove{
+	
+	width:100%;
+	border-left: 2px solid #adadad;
+    border-bottom: 2px solid #adadad;
+    border-right: 2px solid #adadad;
+    padding-top: 13px;
+    padding-bottom: 13px;
+	
+}
+
+
+
+.image_brand img{
+	display:block;
+	margin:0 auto;
+	float:center;
+	background-attachment:fixed;
+}
+
+
+
+.text-information p {
+	font-size:11px;
+	color:grey;
+	display:block;
+	margin:0 auto;
+	float:center;	
+}
+
+.text-information h4{
+	padding:20px ;
+	color:white;
+}
+
+.text-information .glyphicon{
+	color:aqua;
+}
+
+.social{
+	padding:20px 115px;
+	text-align:right;
+	font-size:20px;
+	
+}
+
+.social-media p{
+	padding:20px 90px;
+	color:white;
+	float:center;
+}
